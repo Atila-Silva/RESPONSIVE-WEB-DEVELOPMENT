@@ -1,0 +1,33 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100%;
+    width: 1350px;
+    width: 100%;
+    /*border: 2px solid red ;*/
+    margin: 5px;
+}
+.caixa-titulo,h3{
+    /*border: 2px solid black ;*/
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 50px;
+   
+}
+.caixa-texto,.caixa-titulo{
+    /*border: 2px solid black ;*/
+    width: 57%;
+}
+.caixa-texto,.imagem-01{
+    float: left;
+}
+h1{
+    font-size: 20px;
+}
+h3{
+    font-size: 15px;
+}
+.imagem-01{
+   /*border: 2px solid black ;*/
+    
+    width: 28%;
+}

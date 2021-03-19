@@ -1,0 +1,65 @@
+
+body{
+    width: 1325px;
+    height: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: url(../imagens/fundovc.jpg);
+    
+    
+}
+.principal{
+    width: 98%;
+    height: 100%;
+    
+    margin: auto;
+
+}
+
+.im-tx{
+    background-color: #fff;
+    padding: 10px;
+    padding-bottom: 10px;
+    height: 350px;
+    margin: 10px;
+}
+h3{
+    color: #fff;
+    font-size: 35px ;
+    padding: 15px;
+
+}
+.lado{
+    width: 98%;
+    height: 220px;
+    margin: 10px;
+    
+}
+.im{
+    width: 12%;
+    
+    float: left;
+    height: 213px;
+    
+}
+.tx{
+    width: 86%;
+    
+    float: right;
+    height: 213px;
+}
+.texto1{
+    font-size: 25px;
+}
+
+img{
+    width: 150px;
+}
+.links{
+    
+    width: 30%;
+    height: 11%;
+    margin-left: auto;
+    
+}
+
+
